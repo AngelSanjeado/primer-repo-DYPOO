@@ -7,7 +7,7 @@ public class Git{
         Scanner cin = new Scanner(System.in);
         String name = cin.nextLine();
 
-        System.out.println("El nombre es: " + name);
+        System.out.println("Hola " + name);
         cin.close();
 
     }
