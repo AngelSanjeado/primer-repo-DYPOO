@@ -1,3 +1,3 @@
 #include <iostream>
 
-int main(){std::cout<<"Holiwuiiiissss";}
+int main(){std::cout<<"Holiuiiiissss";}
